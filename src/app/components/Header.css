@@ -1,0 +1,23 @@
+.header{
+    background-image: linear-gradient(45deg, 
+    rgb(82, 75, 75), 
+    rgba(103, 89, 89, 0)),
+    url("https://cdn.wionews.com/sites/default/files/inline-images/Nityanand%20Charan%20Das.jpg");
+    height: 24rem;
+    color: white;
+    padding: 1rem 10rem;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
+
+.content{
+    width: 45%;
+}
+.name{
+    font-size: 14px;
+}
+.courseTitle{
+    font-size: 2rem;
+    font-weight: 500;
+}
